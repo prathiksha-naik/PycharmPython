@@ -1,3 +1,4 @@
+# Write a program to create a new string made of an input string’s first, middle, and last character.
 str1 = 'James'
 print("Original String is", str1)
 
