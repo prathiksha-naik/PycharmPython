@@ -1,4 +1,4 @@
-# Display numbers divisible by 5 from a list
+# Display numbers divisible by 5 from a list.
 number = int(input("Enter the number of values required to be entered in list: "))
 num = []
 for i in range(number):
