@@ -8,6 +8,6 @@ for strings in string:
         lower.append(strings)
     else:
         upper.append(strings)
-combstring = ''.join(lower + upper)
-print(str(combstring))
+joinstring = ''.join(lower + upper)
+print(str(joinstring))
 
